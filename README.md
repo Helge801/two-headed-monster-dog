@@ -1,19 +1,9 @@
-# Lyrical 
+# Two Headed Monster Dog
 
 ## Usage
-Used to pull lyrics from from azlyrics and help divide them into slides based an songs and line groups.
-This extension is intended for private use and not intended for distribution or comercial use.
+Track Jira tickets by day and web activity for easier time tracking
 
-<img src="screenshots/lyrical_screen.png" alt="Extension Screenshot" width="640" height="450">
-
-Highlights:
-- Quickly see if there are Rakuten Marketing tags on the site and from which channel
-- Know who owns the Facebook pixel drop and the details passed by their pixel
-- Identify what network pixels are being dropped with their associated IDs
-- View what cookies are cached and edit the cookie to verify personalization
-- Locate Rakuten ads on the page and view their feed details
-- Links to internal portals to make quick edits
-- One click to report issues and be provided with all the data you will need to create the ticket
+<img src="screenshots/screen.png" alt="Extension Screenshot" width="640" height="450">
 
 ## Build
 
